@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
+@theme {
+  --color-green-primary: #1D3531;
+  --color-green-actived: #5D8A83;
+  --color-green-border: #2A4B46;
+  --color-green-btn: #CCEC60;
+  --color-green-title-card: #719D96
+}
